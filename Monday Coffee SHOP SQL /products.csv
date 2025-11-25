@@ -1,0 +1,29 @@
+product_id,product_name,price,quantity,quantity(In Num)
+1,Ground Espresso Coffee (250g),350,250g,250
+2,Cold Brew Coffee Pack (6 Bottles),900,6 Bottles,6
+3,Instant Coffee Powder (100g),250,100g,100
+4,Coffee Beans (500g),600,500g,500
+5,Coffee Drip Bags (10 Bags),450,10 Bags,10
+6,French Press Coffee Set,1200,#VALUE!,0
+7,Specialty Coffee Subscription,1500,#VALUE!,0
+8,Flavored Coffee Pods (Pack of 10),750,Pack of 10,10
+9,Organic Green Coffee Beans (500g),700,500g,500
+10,Coffee Gift Hamper,1800,#VALUE!,0
+11,Cold Brew Concentrate (500ml),550,500ml,500
+12,Caramel Syrup (250ml),300,250ml,250
+13,Mocha Flavored Coffee Mix (200g),450,200g,200
+14,Vanilla Coffee Syrup (250ml),320,250ml,250
+15,Coffee Mug (Ceramic),350,Ceramic,0
+16,Stainless Steel Tumbler,500,#VALUE!,0
+17,Coffee-Themed T-Shirt,600,#VALUE!,0
+18,Reusable Coffee Cup (Eco-friendly),450,Eco-friendly,0
+19,Glass Coffee Jar (500ml),300,500ml,500
+20,Coffee Bean Storage Canister,800,#VALUE!,0
+21,Insulated Travel Mug,650,#VALUE!,0
+22,Coffee Art Print,400,#VALUE!,0
+23,Customizable Coffee Coaster Set,250,#VALUE!,0
+24,Tote Bag with Coffee Design,500,#VALUE!,0
+25,Coffee Recipe Book,600,#VALUE!,0
+26,Coffee Plant Kit (DIY),900,DIY,0
+27,Personalized Coffee Spoon,200,#VALUE!,0
+28,Coffee-Themed Notebook,300,#VALUE!,0
